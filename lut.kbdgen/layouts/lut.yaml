@@ -1,6 +1,7 @@
 displayNames:
   'lut': Lushootseed
   en: Lushootseed
+
 modes:
   android:
     default: |
@@ -156,6 +157,7 @@ modes:
       \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
       \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
       0 \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . /
+
 transforms:
   '\u{A0}\u{30F}':
     ' ': '\u{A0}\u{30F}'
@@ -717,6 +719,7 @@ transforms:
     O: Ơ
     u: ư
     U: Ư
+
 space:
   win:
     alt: '\u{A0}'
@@ -728,6 +731,7 @@ space:
     alt+shift: '\u{A0}'
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
+
 deadKeys:
   win:
     alt: [',', '-', ., '`', ¨, ¯, ´, ¸, ʼ, ˀ, ˆ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝]
