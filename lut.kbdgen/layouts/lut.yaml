@@ -1,25 +1,35 @@
 displayNames:
-  'lut': Lushootseed
+  'lut': dxʷləšucid
   en: Lushootseed
+      ` 1 2 3 4 5 6 7 8 9 0 - =
+      q w ə š t y u i o p [ ]
+      a s d ʔ g h ǰ k l ɬ ' \
+      § x̌ x c č b n m , . /
+    shift: |
+      ~ ! @ # $ % ^ & * ( ) _ +
+      q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+      qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+      ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ?
+
 modes:
   android:
     default: |
-      á š e r t y u i o p ŋ
-      a s d f g h j k l đ ŧ
-         ž z č c v b n m
+      q w ə š t y u i o p [ ]
+      a s d ʔ g h ǰ k l ɬ ' \
+         § x̌ x c č b n m , . /
     shift: |
-      Á Š E R T Y U I O P Ŋ
-      A S D F G H J K L Đ Ŧ
-         Ž Z Č C V B N M
+      q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+      qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+         ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ?
   ios:
     default: |
-      á š e r t y u i o p ŋ
-      a s d f g h j k l đ ŧ
-      \s{shift:1.25} \s{spacer:0.25} ž z č c v b n m \s{spacer:0.25} \s{backspace:1.25}
+      q w ə š t y u i o p [ ]
+      a s d ʔ g h ǰ k l ɬ ' \
+      \s{shift:1.25} \s{spacer:0.25} § x̌ x c č b n m \s{spacer:0.25} \s{backspace:1.25}
     shift: |
-      Á Š E R T Y U I O P Ŋ
-      A S D F G H J K L Đ Ŧ
-      \s{shift:1.25} \s{spacer:0.25} Ž Z Č C V B N M \s{spacer:0.25} \s{backspace:1.25}
+      q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+      qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+      \s{shift:1.25} \s{spacer:0.25} ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ \s{spacer:0.25} \s{backspace:1.25}
     symbols-1: |
       1 2 3 4 5 6 7 8 9 0
       - / : ; ( ) kr & @ "
@@ -30,13 +40,13 @@ modes:
       \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
   ipad-9in:
     default: |
-      \s{"`":0.75}  á š e r t y u i o p ŋ \s{backspace:1.25}
-      \s{shift}     a s d f g h j k l đ ŧ \s{shift}
-      \s{spacer:0.5}  ž z č c v b n m , . \s{spacer:0.5} \s{return:2}
+      \s{"`":0.75}  q w ə š t y u i o p [ ] \s{backspace:1.25}
+      \s{shift}     a s d ʔ g h ǰ k l ɬ ' \ \s{shift}
+      \s{spacer:0.5}  § x̌ x c č b n m , . \s{spacer:0.5} \s{return:2}
     shift: |
-      \s{"@":0.75}  Á Š E R T Y U I O P Ŋ \s{backspace:1.25}
-      \s{shift}     A S D F G H J K L Đ Ŧ \s{shift}
-      \s{spacer:0.5}  Ž Z Č C V B N M ! ? \s{spacer:0.5} \s{return:2}
+      \s{"@":0.75}  q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { } \s{backspace:1.25}
+      \s{shift}     qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " | \s{shift}
+      \s{spacer:0.5}  ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ? \s{spacer:0.5} \s{return:2}
     alt: |
       \s{"@":0.75}  1 2 3  4 5 6 7 8 9 0 å \s{backspace:1.25}
       \s{shift}     % # kr & * ( ) ' " ø æ \s{shift}
