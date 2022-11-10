@@ -1,0 +1,9 @@
+template = ""
+rev_id = 17
+template_sha = "346f129f994bbadaaf70e03a281aef7056527a21"
+
+[replacements]
+__LICENSE__ = "LGPLv3"
+__UND2C__ = "lut"
+__UNDEFINED__ = "Lushootseed"
+__UND__ = "lut"
