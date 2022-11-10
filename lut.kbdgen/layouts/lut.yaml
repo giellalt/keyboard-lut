@@ -5,14 +5,14 @@ modes:
   win:
     default: |
       ` 1 2 3 4 5 6 7 8 9 0 - =
-      q w e r t y u i o p [ ]
-      a s d f g h j k l ; ' \
-      § z x c v b n m , . /
+      q w ə š t y u i o p [ ]
+      a s d ʔ g h ǰ k l ɬ ' \
+      § x̌ x c č b n m , . /
     shift: |
       ~ ! @ # $ % ^ & * ( ) _ +
-      Q W E R T Y U I O P { }
-      A S D F G H J K L : " |
-      ± Z X C V B N M < > ?
+      q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+      qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+      ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ?
     caps: |
       ` 1 2 3 4 5 6 7 8 9 0 - =
       Q W E R T Y U I O P [ ]
@@ -46,14 +46,14 @@ modes:
       § ’ . ¸ ˇ ˘ ˜ ˛ ≤ ≥ ÷
     default: |
       ` 1 2 3 4 5 6 7 8 9 0 - =
-      q w e r t y u i o p [ ]
-      a s d f g h j k l ; ' \
-      § z x c v b n m , . /
+      q w ə š t y u i o p [ ]
+      a s d ʔ g h ǰ k l ɬ ' \
+      § x̌ x c č b n m , . /
     shift: |
       ~ ! @ # $ % ^ & * ( ) _ +
-      Q W E R T Y U I O P { }
-      A S D F G H J K L : " |
-      ± Z X C V B N M < > ?
+      q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+      qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+      ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ?
     caps: |
       ` 1 2 3 4 5 6 7 8 9 0 - =
       Q W E R T Y U I O P [ ]
