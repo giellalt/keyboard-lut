@@ -15,6 +15,16 @@ android:
         q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
         qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
         \s{shift} ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ? \s{backspace}
+  tablet-600:
+    layers:
+      default: |
+        q w ə š t y u i o p [ ]
+        a s d ʔ g h ǰ k l ɬ ' \
+        \s{shift} § x̌ x c č b n m , . / \s{backspace}
+      shift: |
+        q̓ w̓ q̓ʷ √ t̕ y̓ U kʷ O p̓ { }
+        qʷ S dᶻ F gʷ H k̓ʷ k̓ l̕ ƛ̕ " |
+        \s{shift} ± x̌ʷ xʷ c̓ č̓ b̓ n̓ m̓ < > ? \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-lut?channel=nightly&platform=mobile
@@ -790,7 +800,7 @@ longpress:
   t: ŧ ț ṱ ṯ
   z: ž ʒ ǯ
   '%': ‰ ∞
-  =: ≠ ≈
+  '=': ≠ ≈
   '-': • – —
   '&': §
   '?': ¿
