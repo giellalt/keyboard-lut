@@ -205,29 +205,32 @@ windows:
     cmd+alt: \u{A0}
     alt+caps: \u{A0}
 longpress:
-  a: á à
-  ǝ: ǝ́ ǝ̀ e é è
-  i: í ì 
-  o: ó ò
-  u: ú ù
-  b: b̓
-  c: c̓
-  č: č̓
-  d: dᶻ
-  g: gʷ
-  k: k̓ kʷ k̓ʷ
-  l: l̕ ɬ ƛ̕
+  a: á à A
+  ǝ: ǝ́ ǝ̀ e é è E
+  ʔ: F
+  i: í ì I
+  o: ó ò O
+  u: ú ù U
+  b: b̓ B
+  c: c̓ C
+  č: č̓ v V
+  d: dᶻ D
+  g: gʷ G
+  ǰ: j J
+  k: k̓ kʷ k̓ʷ K
+  l: l̕ ɬ ƛ̕ L
   ɬ: ƛ̕
-  m: m̓
-  n: n̓
-  p: p̓
-  q: q̓ qʷ q̓ʷ
-  s: š
-  t: t̕
-  w: w̓
-  x: xʷ x̌ x̌ʷ
-  x̌: x̌ʷ
-  y: y̓
+  m: m̓ M
+  n: n̓ N
+  p: p̓ P
+  q: q̓ qʷ q̓ʷ Q
+  s: š S
+  š: r R
+  t: t̕ T
+  w: w̓ W
+  x: xʷ x̌ x̌ʷ X
+  x̌: x̌ʷ Z
+  y: y̓ Y
   '%': ‰ ∞
   '=': ≠ ≈
   '-': • – —
@@ -238,6 +241,6 @@ longpress:
   '"': „ “ ” « »
   "'": ‚ ‘ ’
 keyNames:
-  space: gaska
-  return: linnjá\u00ADmolsun
+  space: ʔəsxʷəcab
+  return: ɬaw̓t\u00ADt̕əd
 
