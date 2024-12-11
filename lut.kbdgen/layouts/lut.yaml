@@ -207,7 +207,7 @@ windows:
 longpress:
   a: á à A
   ǝ: ǝ́ ǝ̀ e é è E
-  ʔ: F
+  ʔ: f F
   i: í ì I
   o: ó ò O
   u: ú ù U
@@ -229,7 +229,7 @@ longpress:
   t: t̕ T
   w: w̓ W
   x: xʷ x̌ x̌ʷ X
-  x̌: x̌ʷ Z
+  x̌: x̌ʷ z Z
   y: y̓ Y
   '%': ‰ ∞
   '=': ≠ ≈
