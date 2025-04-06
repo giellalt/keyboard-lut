@@ -278,7 +278,7 @@ transforms:
 
 longpress:
   a: á à A
-  ǝ: E e é è 'ǝ́' 'ǝ̀'
+  'ǝ': 'E e é è ǝ́ ǝ̀'
   ʔ: f F
   i: í ì I
   o: ó ò O
